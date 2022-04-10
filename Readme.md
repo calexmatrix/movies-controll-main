@@ -1,5 +1,4 @@
-# Projeto realizado durante o modulo "MySql - Como modelar um banco de controle de séries assistidas" do Bootcamp 
-# da DIO Cognizant Cloud Data Engineer 2
+### Projeto realizado durante o modulo "MySql - Como modelar um banco de controle de séries assistidas" do Bootcamp da DIO Cognizant Cloud Data Engineer 2
 
 
 # Instruções de uso
